@@ -31,7 +31,7 @@ As budgets increase, it appears there is an increase in returns.
 
 ![returns_by_budget](./images/returns_by_budget.png)
 
-Movies released in June, July, November and December tend to me most successful.
+Movies released in June, July, November and December tend to do best.
 
 ![returns_by_month](./images/returns_by_month.png)
 
