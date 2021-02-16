@@ -6,6 +6,8 @@
 
 ## Overview
 
+![](./images/microsoft_logo.png)
+
 This project analyzes data regarding box office returns and genres in order to make a recommendation as to which types of movies tend to do best at the box office.  
 
 ## Business Problem
