@@ -29,7 +29,7 @@ For the purposes outlined above, we will use descriptive analysis in order to un
 
 As budgets increase, it appears there is an increase in returns.
 
-![returns_by_budget](./returns_by_budget.png)
+![returns_by_budget](./images/returns_by_budget.png)
 
 Movies released in June, July, November and December tend to me most successful.
 
