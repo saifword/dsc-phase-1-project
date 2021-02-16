@@ -29,13 +29,15 @@ For the purposes outlined above, we will use descriptive analysis in order to un
 
 As budgets increase, it appears there is an increase in returns.
 
+![returns_by_budget](./returns_by_budget.png)
 
+Movies released in June, July, November and December tend to me most successful.
+
+![returns_by_month](./images/returns_by_month.png)
 
 The genres of Animation, Science Fiction and Comedy movies show the highest rates of return.  The Crime genre appears to be particularly weak in this regard.
 
-
-
-Movies released in June, July, November and December tend to me most successful.
+![returns_by_genre](./images/returns_by_genre.png)
 
 
 ## Conclusions
@@ -70,6 +72,8 @@ For additional info, I can be reached at  at [saifword@live.com](mailto:saifword
 ## Repository Structure
 
 ```
+├── data
+├── images
 ├── README.md
 ├── movie_studio_pres.pdf
 └── student.ipynb
