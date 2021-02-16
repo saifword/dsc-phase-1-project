@@ -70,8 +70,6 @@ For additional info, I can be reached at  at [saifword@live.com](mailto:saifword
 ## Repository Structure
 
 ```
-├── data
-├── images
 ├── README.md
 ├── movie_studio_pres.pdf
 └── student.ipynb
